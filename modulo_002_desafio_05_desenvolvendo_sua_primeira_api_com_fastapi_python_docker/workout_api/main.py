@@ -3,9 +3,10 @@ from workout_api.routers import api_router
 # ******************************************
 # Adicionando Paginação - fastapi_pagination
 # ******************************************
-from fastapi_pagination import Page, add_pagination, paginate
+from fastapi_pagination import LimitOffsetPage, add_pagination, paginate
 
 app = FastAPI(title = 'WorkoutApi')
+add_pagination(app)
 
 app.include_router(api_router)
 
