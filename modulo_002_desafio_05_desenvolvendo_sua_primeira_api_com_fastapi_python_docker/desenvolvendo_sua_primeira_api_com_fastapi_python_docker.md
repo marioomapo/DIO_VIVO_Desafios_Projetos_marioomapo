@@ -540,28 +540,12 @@ Dando continuidade a construção dos **end-points**.
 
 ## *Links de Úteis* 🌐
 
-### 1. [O que é um banco de dados relacional (RDBMS)?](https://www.oracle.com/br/database/what-is-a-relational-database/)
+### 1. [FastAPI](https://fastapi.tiangolo.com/)
 
-### 2. [SQL Tutorial](www.sqltutorial.org/)
+### 2. [Pydantic](https://docs.pydantic.dev/latest/)
 
-### 3. [Criando Diagramas Entidade-Relacionamento](https://app.creately.com/)
+### 3. [SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
 
-### 4. [Criando Diagramas Entidade-Relacionamento com IA](https://app.quickdatabasediagrams.com)
+### 4. [Alembic](https://alembic.sqlalchemy.org/en/latest/)
 
-### 5. [Banco de Dados](https://clients.cloudclusters.io/)
-
-### 6. [O que é um diagrama entidade relacionamento?](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento)
-
-### 7. [mariadb data-types](https://mariadb.com/kb/en/data-types/)
-
-### 8. [mariadb create-table](https://mariadb.com/kb/en/create-table/)
-
-### 9. [Formas Normais](https://pt.wikipedia.org/wiki/Normaliza%C3%A7%C3%A3o_de_dados)
-
-### 10. [Scripts Hands On](https://github.com/pamelaborges/dio-bd-relacional)
-
-### 11. [Mariadb joins](https://mariadb.com/kb/en/joins/)
-
-### 12. [Mariadb Funções Agregadoras](https://mariadb.com/kb/en/aggregate-functions/)
-
-### 13. [Mariadb Índice](https://mariadb.com/kb/en/alter-table/#add-index)
+### 5. [Fastapi-pagination](https://uriyyo-fastapi-pagination.netlify.app/)
